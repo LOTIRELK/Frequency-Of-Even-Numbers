@@ -1,0 +1,9 @@
+U:\C#\Question_1\Question_1\bin\Debug\Question_1.exe.config
+U:\C#\Question_1\Question_1\bin\Debug\Question_1.exe
+U:\C#\Question_1\Question_1\bin\Debug\Question_1.pdb
+U:\C#\Question_1\Question_1\obj\Debug\Question_1.csprojResolveAssemblyReference.cache
+U:\C#\Question_1\Question_1\obj\Debug\Question_1.exe
+U:\C#\Question_1\Question_1\obj\Debug\Question_1.pdb
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Lab_Ex2\Question_1\Question_1\bin\Debug\Question_1.exe.config
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Lab_Ex2\Question_1\Question_1\obj\Debug\Question_1.exe
+C:\Users\Lorcan\Documents\ProgrammingYR2\C#\Lab_Ex2\Question_1\Question_1\obj\Debug\Question_1.pdb
